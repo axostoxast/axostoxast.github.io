@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://axostoxast.github.io/sitemap.xml
 Sitemap: https://axostoxast.github.io/tanacount-support/sitemap.xml
